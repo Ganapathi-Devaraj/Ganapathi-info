@@ -9,7 +9,7 @@
 - 🌱 Currently exploring(Working) **HTML, CSS, BOOTSTRAP, ANGULAR, JAVASCRIPT, TYPESCRIPT, PHP, JAVA, C, MYSQL, .NET FRAMEWORK(ASP.NET, MVC.NET), DIGITAL MARLETING AND MORE -- BASED ON PROJECTS**
 - 💞️ I’m open to collaborating on **innovative Fullstack Web Application and Custom Software Application**
 - 📫 Reach me at: **ganapathidevaraj2003@gmail.com**  
-- 🌐 Connect with me: [LinkedIn]() | [Portfolio](https://ganapathi-d.netlify.app/)
+- 🌐 Connect with me: [LinkedIn](https://github.com/Ganapathidev-g) | [Portfolio](https://ganapathi-d.netlify.app/)
 - 😄 Pronouns: **He / Him**
 - ⚡ Fun fact: _"I believe simple tools can solve complex problems."_  
 
@@ -26,7 +26,7 @@
 
 ### 🤝 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- 💼 [LinkedIn](https://github.com/Ganapathidev-g)  
 - 🌐 [Portfolio](https://ganapathi-d.netlify.app/)  
 - ✉️ Email: **ganapathidevaraj2003@gmail.com**
 

@@ -24,15 +24,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ganapathidev-g&show_icons=true&theme=github_dark" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganapathidev-g&layout=compact&theme=github_dark" alt="Top Languages" height="150"/>
-</p>
-
----
-
 ### 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  

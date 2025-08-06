@@ -17,10 +17,10 @@
 
 ### 🛠️ Tech Stack
 
-- **Frontend:** Angular/React
-- **Backend:** Node.js, Express.js, .NET, php , Java  
-- **Database:** MySQL,
-- **Tools & Platforms:** Git, GitHub, VS Code, Postman, Firebase, AWS based on project
+- **Frontend:** HTML , CSS , JAVASCRIPT , BOOTSTRAP , TYPESCRIPT , ANGULAR 16+
+- **Backend:** .NET FRAMEWORK/CORE - C# , ASP.NET , MVC.NET , ADO.NET , Entity Framework
+- **Database:** SQL , MySQL
+- **Tools & Platforms:** Git, GitHub, VS Code, Postman, etc.,
 
 ---
 
